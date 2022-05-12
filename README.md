@@ -1,21 +1,10 @@
-本人的所有仓库已经迁移到gitee，github由于网络问题，以后就不再使用了      
+这个是我的书籍仓库,收录了很多计算机书籍，需要自取
 
-gitee仓库地址——https://gitee.com/huangxiangqi      
-    
-github仓库地址——https://github.com/hxq191830060   
+[我的笔记](https://github.com/hxq191830060/Hxq-Note)
 
-个人主页——[淇妙小屋](https://hxq191830060.github.io/)，欢迎来访    
-      
-[计算机技术书籍仓库1](https://github.com/hxq191830060/Books)
+[我的GitHub首页](https://github.com/hxq191830060)
 
-[计算机技术书籍仓库2](https://gitee.com/huangxiangqi/Books2)
-
-[计算机技术笔记1](https://gitee.com/huangxiangqi/note1)
-
-[计算机技术笔记2](https://gitee.com/huangxiangqi/note2)
-
-[计算机技术笔记3](https://gitee.com/huangxiangqi/note3)
-
-[计算机技术笔记4](https://gitee.com/huangxiangqi/note4)
+[我的掘金主页](https://juejin.cn/user/2766784438474925)
+——我有空就会发布文章，都是我自己深度思考总结的成果，欢迎关注
 
 
